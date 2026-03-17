@@ -1,0 +1,11 @@
+## ▶️ How to Run the Project
+
+1. Clone the repository
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   Open Play_Store_App_Review_Analysis.ipynb in Jupyter or Google Colab
+
+4. Make sure dataset files are in the same folder
